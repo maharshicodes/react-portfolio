@@ -26,7 +26,7 @@ const Contact = () => {
               placeholder="Enter your name"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
-            <input
+            <input 
               type="text"
               name="email"
               placeholder="Enter your email"

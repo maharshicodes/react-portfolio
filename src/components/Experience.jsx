@@ -58,7 +58,7 @@ const Experience = () => {
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
-    },
+    }, 
   ];
 
   return (

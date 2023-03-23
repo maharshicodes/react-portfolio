@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-20"> 
         I am a software professional with over 1.2 years of experience, 
         specializing in ReactJS. My passion lies in developing and styling web applications using this technology.
          I find it exciting to create visually appealing and highly interactive user interfaces that enhance the user experience. 
